@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\mycpp">
+      <UniqueIdentifier>{7ee86ed8-d260-4ceb-b2f5-011536f1f773}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\mycpp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
