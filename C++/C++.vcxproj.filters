@@ -21,5 +21,8 @@
     <ClCompile Include="helloworld.cpp">
       <Filter>Source Files\mycpp</Filter>
     </ClCompile>
+    <ClCompile Include="variabel.cpp">
+      <Filter>Source Files\mycpp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

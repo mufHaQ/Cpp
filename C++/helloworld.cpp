@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int helloworld() {
 	std::cout << "Hello";
 	std::cout << " World!" << std::endl;
 	std::cin.get();
